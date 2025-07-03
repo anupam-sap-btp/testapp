@@ -13,6 +13,6 @@ module.exports = cds.service.impl( (srv) => {
 });
 
 async function add_stock(req) {
-    console.log("test action");
+    console.log("test action new");
 
 }
